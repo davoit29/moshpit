@@ -3,7 +3,7 @@ from tkinter import StringVar, IntVar
 
 # Создаем главное окно
 ctk.set_appearance_mode("dark")  # Темная тема
-ctk.set_default_color_theme("blue")  # Цветовая тема
+ctk.set_default_color_theme("green")  # Цветовая тема
 
 # Функция для включения двигателя
 def start_motor():
